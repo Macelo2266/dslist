@@ -1,10 +1,7 @@
 package com.devaraujom.dslist.DTO;
 
 import com.devaraujom.dslist.entities.Game;
-import jakarta.persistence.Column;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
+
 import org.springframework.beans.BeanUtils;
 
 public class GameDTO {
